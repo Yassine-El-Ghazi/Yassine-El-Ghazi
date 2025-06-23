@@ -2,7 +2,7 @@
 
 🎓 Cybersecurity student at Euromed University of Fes  
 🔐 Passionate about offensive security, CTFs (pwn, OSINT, forensics, web), and vulnerability analysis  
-💻 Developer with experience in C, C++, Python, Web, and Flutter  
+💻 Developer with experience in C, C++, Python, Java, and basic web technologies  
 🧠 Naturally curious and always exploring new tools, frameworks, and cybersecurity techniques  
 🛠️ I love building technical projects, solving challenges, and learning deeply.
 
@@ -10,14 +10,12 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-<a href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42"/></a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/></a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/></a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="42" height="42"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/></a>
 </p>
